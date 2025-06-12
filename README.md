@@ -1,3 +1,3 @@
 # test-repository
 
-edited-readme2
+edited-readme
